@@ -1,2 +1,22 @@
-# aimtrainerx
-Aim Trainer X — free, lightweight online aim trainer that runs instantly in your browser, no downloads. Sharpen FPS accuracy &amp; reaction speed anytime. The best alternative to AimLabs for daily practice.
+# AimTrainerX
+
+Free browser-based FPS aiming trainer. No downloads required.
+
+[Play Now](https://aimtrainerx.com)
+
+## Core Features
+
+- Zero-install browser training
+- Professional aiming exercises for FPS games
+- Customizable targets and crosshairs
+- Performance analytics and progress tracking
+- Multi-language support
+
+## Supported Games
+
+CS:GO, Valorant, Fortnite, Overwatch, Apex Legends
+
+## Feedback
+
+Submit issues or suggestions on GitHub:
+https://github.com/aimtrainerx/aimtrainerx/issues
