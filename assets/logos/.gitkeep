@@ -1,0 +1,9 @@
+# Logos Directory
+
+Add brand logos here following the guidelines in /assets/README.md
+
+Required files:
+- logo.png
+- logo-light.png (optional)
+- logo-dark.png (optional)
+- favicon.ico (optional)
