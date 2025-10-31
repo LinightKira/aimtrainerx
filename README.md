@@ -16,7 +16,11 @@ Free browser-based FPS aiming trainer. No downloads required.
 
 CS:GO, Valorant, Fortnite, Overwatch, Apex Legends
 
+## Languages
+
+- [中文 (Chinese)](README.zh-CN.md)
+
 ## Feedback
 
 Submit issues or suggestions on GitHub:
-https://github.com/aimtrainerx/aimtrainerx/issues
+[GitHub Issues](https://github.com/LinightKira/aimtrainerx/issues/new)
